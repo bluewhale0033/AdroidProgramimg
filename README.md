@@ -246,6 +246,5 @@
 -------------------------------------
 # 2. 마크다운 문법 정리하기:whale2:
 >>[참고1](https://blog.naver.com/tpgns8488/220933430056)
-
-[참고2](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+>>[참고2](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
