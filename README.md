@@ -651,5 +651,6 @@ return true;
 ## 6. 태그(Tag)
 @를 사용하여 유저를 태그할 수 있습니다.
 
-### 7. 이모티콘(Emoji)
+## 7. 이모티콘(Emoji)
 [Github](http://www.webpagefx.com/tools/emoji-cheat-sheet/)에서 제공하는 이모티콘을 사용할 수 있습니다.
+원하는 곳에 복사해서 붙이면 된다.
