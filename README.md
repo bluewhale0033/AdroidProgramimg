@@ -1,5 +1,5 @@
-# 안드로이드 프로그래밍 과제
--------------------------------
+# 안드로이드 프로그래밍 과제:baby_chick:
+
 # 1. git명령어 정리
 >>[참고](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 
