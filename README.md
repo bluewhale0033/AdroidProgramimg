@@ -1,7 +1,7 @@
 # 안드로이드 프로그래밍 과제:baby_chick::baby_chick::baby_chick:
 
 # 1. git명령어 정리:tiger:
->>[참고](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
+>>[](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 
 ## 1. 설정과 초기화:koala:
 ### 1-1. 전역 사용자명/이메일 구성하기
@@ -245,7 +245,7 @@
 
 -------------------------------------
 # 2. 마크다운 문법 정리하기:whale2:
->>[참고](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+>>[출처](https://gist.github.com/ninanung)
 
 ## 1. 제목과 호라이즌
 ### 1-1. 제목
@@ -628,17 +628,17 @@ https://gist.github.com/ninanung
 ```
 와 같은 방식으로 사용이 가능합니다. html에서 많이 사용하는 특수문자인 ‘ < > ’로 URL이나 이메일 주소를 감싸주면 됩니다. 이것은 사용자에게는 이렇게 보이게 됩니다.
 
-<https://gist.github.com/ninanung>  
+ http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
-위에 링크를 누르 제 기스트로 제대로 들어가 지나요? 아마 그럴 것 같습니다.
+위에 링크를 누르 제 깃허브 이모지로 제대로 들어가 지나요? 아마 그럴 것 같습니다.
 
 두 번째 방법은 위에서 사용했던 것 보다는 약간 더 복잡해집니다.
 ```
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
+[링크는 깃허브 이모지](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 ```
 이렇게 사용하면  
-[링크는 젤다의전설 주인공 이름](https://gist.github.com/ninanung)  
-요롷게 보이게 됩니다. 참고로 위에걸 누르셔도 또 제 기스트로 들어가집니다.
+[링크는 깃허브 이모지](http://www.webpagefx.com/tools/emoji-cheat-sheet/)  
+요롷게 보이게 됩니다. 참고로 위에걸 누르셔도 또 깃허브 이모지로 들어가집니다.
 ```
 [링크에 사용할 이름](URL)  
 ```
@@ -659,7 +659,6 @@ https://gist.github.com/ninanung
 *********************************************************** 
 
 4-2.이미지넣기
------------------
 이미지를 넣는 것은 게시판같은 웹 서비스에서 많이 볼 수 있는 기능입니다. 흔히들 말하는 짤을 올리거나 설명에 필요한 그림이나 그래프를 넣을 수도 있죠. 마크다운도 그 기능을 문법으로 구현합니다. 링크의 방식과 상당히 유사하니 쉽게 이해하실 겁니다.
 
 첫번째 방식은 가장 간단한 방식입니다.
