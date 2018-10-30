@@ -1,7 +1,7 @@
 # 안드로이드 프로그래밍 과제
 
 # 1. git명령어 정리
->>참고:[https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd]
+>>참고:https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd
 
 ## 1. 설정과 초기화
 ### 1-1. 전역 사용자명/이메일 구성하기
